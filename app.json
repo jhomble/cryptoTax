@@ -1,5 +1,5 @@
 {
-    "name": "AngularJS Heroku Seed Application",
+    "name": "Heroku AngularJS template",
       "description": "A complete startup app for an AngularJS Node.js application",
       "repository": "https://github.com/pbraswell/heroku-angular-seed",
       "logo": "https://node-js-sample.herokuapp.com/node.svg",
