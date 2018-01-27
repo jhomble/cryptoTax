@@ -1,6 +1,6 @@
 'use strict';
 
-angular.module('crpto.home', ['ngRoute'])
+angular.module('crypto.home', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/home', {
