@@ -1,5 +1,5 @@
 'use strict';
-
+import { angular } from 'angular';
 // Declare app level module which depends on views, and components
 angular.module('crypto', [
   'ngRoute',
