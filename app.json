@@ -1,7 +1,7 @@
 {
-    "name": "Heroku AngularJS template",
-      "description": "A complete startup app for an AngularJS Node.js application",
-      "repository": "https://github.com/pbraswell/heroku-angular-seed",
+    "name": "Crypto Tax",
+      "description": "Crypto Capital Gains",
+      "repository": "https://github.com/jhomble/cryptoTax",
       "logo": "https://node-js-sample.herokuapp.com/node.svg",
       "keywords": ["node", "express", "static"]
 }

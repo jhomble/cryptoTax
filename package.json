@@ -1,16 +1,21 @@
 {
-  "name": "angualrjs-seed",
-  "description": "A starter project for angular js",
-  "dependencies": {
-    "express": "^4.9.7",
-    "gzippo": "^0.2.0",
-    "logfmt": "^1.2.0"
+  "name": "cryptotax",
+  "version": "1.0.0",
+  "description": "",
+  "main": "karma.conf.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "phantomjs": "*",
-    "karma": "*",
-    "karma-junit-reporter": "*",
-    "karma-jasmine": "*",
-    "karma-ng-scenario": "*"
-  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhomble/cryptoTax.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhomble/cryptoTax/issues"
+  },
+  "homepage": "https://github.com/jhomble/cryptoTax#readme"
 }
