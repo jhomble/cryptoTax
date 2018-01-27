@@ -1,5 +1,5 @@
 'use strict';
-import { angular } from 'angular';
+import angular from 'angular';
 angular.module('crypto.home', ['ngRoute'])
 
 .config(['$routeProvider', function($routeProvider) {
